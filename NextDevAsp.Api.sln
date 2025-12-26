@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDevAsp.Api", "NextDevAsp.Api.csproj", "{499985F4-70C2-A8E3-C1F9-23247F5AC13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDevAsp.Api.Ui", "..\NextDevAsp.Api.Ui\NextDevAsp.Api.Ui.csproj", "{0405C2B8-D4E2-4C61-B4EC-A08758ACFD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499985F4-70C2-A8E3-C1F9-23247F5AC13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499985F4-70C2-A8E3-C1F9-23247F5AC13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499985F4-70C2-A8E3-C1F9-23247F5AC13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499985F4-70C2-A8E3-C1F9-23247F5AC13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0405C2B8-D4E2-4C61-B4EC-A08758ACFD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0405C2B8-D4E2-4C61-B4EC-A08758ACFD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0405C2B8-D4E2-4C61-B4EC-A08758ACFD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0405C2B8-D4E2-4C61-B4EC-A08758ACFD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48BFC77E-2293-49FC-A8C2-2A7F0C97D8EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@NextDevAsp.Api_HostAddress = http://localhost:5036
+
+GET {{NextDevAsp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
